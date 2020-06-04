@@ -7,7 +7,7 @@ from email import encoders
 
 def SendMail(message = 'hacked Hackathon Programadores'):
     email = 'ismailuzma72@gmail.com' # Your email
-    password = 'Ismail*17' # Your email account password
+    password = 'password' # Your email account password
     send_to_email = 'shahbaaz23khan@gmail.com' # Who you are sending the message to
     subject='File attachment'
       # The message in the email
